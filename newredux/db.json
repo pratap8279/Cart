@@ -1,0 +1,38 @@
+{
+  "accounts": [
+    {
+      "amount": 3453,
+      "id": 6
+    },
+    {
+      "amount": 130,
+      "id": 8
+    },
+    {
+      "amount": 125,
+      "id": 10
+    },
+    {
+      "amount": 125,
+      "id": 12
+    },
+    {
+      "amount": 130,
+      "id": 13
+    },
+    {
+      "amount": 3453,
+      "id": 14
+    }
+  ],
+  "bonus": [
+    {
+      "id": 1,
+      "points": 2
+    },
+    {
+      "id": 2,
+      "points": 3
+    }
+  ]
+}
